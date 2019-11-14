@@ -28,6 +28,6 @@
 ### Instructions
 
 * In order to understand, You can check all of these files one by one in html file, I mean remove other js files and try with one js file
-* at a time, in this way it will be better to understand these concepts
+at a time, in this way it will be better to understand these concepts
 
 
